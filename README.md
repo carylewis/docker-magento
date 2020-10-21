@@ -1,3 +1,6 @@
+<h1>Fork of markshust/docker-magento</h1>
+Fork to provide ability to run on windows 10 Docker Desktop using WSL2 and cygwin
+
 <h1 align="center">markshust/docker-magento</h1>
 
 <div align="center">
